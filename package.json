@@ -2,6 +2,7 @@
   "name": "my-app-saga",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://minhhuynhjm.github.io/ReactCICD",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.4",
